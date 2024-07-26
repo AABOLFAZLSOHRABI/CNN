@@ -2,7 +2,7 @@
 A collection of convolutional neural network projects
 ## List of projects
 
- - [fire detection](#)
+ - [fire detection](https://github.com/AABOLFAZLSOHRABI/CNN/tree/64a4e890babfca9f4687ab25be180ffcca3ea720/fire%20detection)
 
 
 ## License
