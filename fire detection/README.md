@@ -1,1 +1,1 @@
-Fire detection with `YOLO V10n` model and [dataset]([https://universe.roboflow.com/catargiuconstantinvocdataset/vocfinaldataset/dataset/1#](https://universe.roboflow.com/-jwzpw/continuous_fire/dataset/6))
+Fire detection with [`YOLO V10n`](https://github.com/THU-MIG/yolov10) model and [dataset](https://universe.roboflow.com/-jwzpw/continuous_fire/dataset/6)
