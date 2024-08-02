@@ -7,7 +7,7 @@
 !pip install roboflow
 
 from roboflow import Roboflow
-rf = Roboflow(api_key="PyDi5jiufzcprrLXzDBj")
+rf = Roboflow(api_key="your api key")
 project = rf.workspace("cigarette-detector").project("cigarettes-reality-2")
 version = project.version(21)
 dataset = version.download("yolov8")
