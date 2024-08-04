@@ -1,5 +1,3 @@
-Fire detection with [`YOLO V10n`](https://github.com/THU-MIG/yolov10) model and [dataset](https://universe.roboflow.com/-jwzpw/continuous_fire/dataset/6)
-
 # Fire Detection with YOLO V10n Model
 
 Welcome to the Fire Detection project using the YOLO V10n model! This project leverages the latest advances in convolutional neural networks and deep learning to accurately detect fire in images and videos. Whether you are a researcher, developer, or enthusiast in the field of computer vision, this repository provides valuable resources and code to aid in the detection of fire in various environments.
