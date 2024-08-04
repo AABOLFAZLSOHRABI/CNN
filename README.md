@@ -21,5 +21,3 @@ This project is licensed under the MIT License. This permissive license allows f
 ## Feedback
 
 We value your feedback and suggestions! If you encounter any issues, have questions, or would like to share your thoughts, please reach out to us at aabolfazlsohrabir@gmail.com. Your input helps us improve and expand this repository to better serve the community.
-
-google-site-verification=jtbb5d5pU2m1MH_147jtDUyI4AP09ZcRTuRh37UJ-qs
