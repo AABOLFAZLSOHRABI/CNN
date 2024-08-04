@@ -34,7 +34,7 @@ The model is trained using a comprehensive [smoking detection dataset](https://u
 
 The YOLO V10n model demonstrates excellent performance in detecting smoking across various conditions. Below are some example outputs from the model:
 
-![Smoking Detection Example 1](examples/smoking1.jpg)
-![Smoking Detection Example 2](examples/smoking2.jpg)
+![Smoking Detection Example 1](https://github.com/AABOLFAZLSOHRABI/CNN/blob/93e4b75bd3572b4a6d0e5d4014c783f691366598/Smoking%20detection/examples/1.jpg)
+![Smoking Detection Example 2](https://github.com/AABOLFAZLSOHRABI/CNN/blob/93e4b75bd3572b4a6d0e5d4014c783f691366598/Smoking%20detection/examples/2.jpg)
 
 
